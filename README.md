@@ -1,65 +1,21 @@
-# 👋 Hi there, I'm Sadhani Adhikari  
-### 💻 Undergraduate | Software Developer | Tech Enthusiast  
+# 💫 About Me:
+👋 Hi! I’m Sadhani Sulakshani, an undergraduate student at the Sabaragamuwa University of Sri Lanka, pursuing a BSc (Hons) in Computing and Information Systems.<br>💻 I’m passionate about building responsive, user-friendly, and efficient web applications. I have hands-on experience working with technologies like React.js, Laravel, PHP, MySQL, and Next.js, and I’m currently expanding my skills in Node.js, Express.js, and cross-platform development.<br>🚀 I love turning ideas into real-world digital solutions—whether it’s a web system, IoT-based project, or a mobile-friendly interface.<br>🌱 Always eager to learn, collaborate, and explore new frameworks to create impactful and innovative software solutions.
 
-I'm an undergraduate student at the **Sabaragamuwa University of Sri Lanka**, pursuing a **BSc (Hons) in Computing and Information Systems**.  
-I’m passionate about **web and mobile app development**, crafting digital experiences that are both functional and creative.  
 
----
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Sadhani721&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Sadhani721&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sadhani721&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🎯 About Me
-- 🔭 Currently working on **MERN stack projects** and exploring **Next.js** for modern web development.  
-- 🌱 Learning **AI integrations** and **cloud deployment** techniques.  
-- 💬 Ask me about **frontend development, Java, React.js, Node.js**, or **API integration**.  
-- 👯 Open to collaborations in **open-source**, **IoT**, and **AI-powered applications**.  
-- ⚡ Fun fact: I enjoy turning coffee into clean, efficient code ☕  
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-
-### 🧰 Tech Stack  
-
-| **Frontend** | **Backend** | **Database / Cloud** | **Tools & DevOps** |
-|--------------|-------------|----------------------|--------------------|
-| HTML, CSS, JavaScript | Node.js, Express.js | MySQL, MongoDB, Firebase | Git, GitHub, VS Code |
-| React.js, Next.js | Java, Spring Boot | AWS (Basics) | Postman, Figma, Docker |
-| Responsive Design, Tailwind CSS | RESTful APIs |  | Agile / Scrum Practices |
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Sadhani721&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Sadhani721&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🚀 Featured Projects  
-
-- **FISTEXteam** – A team collaboration platform enabling real-time updates and task management.  
-- **Demo** – A demonstration project to showcase reusable UI and backend integration concepts.  
-- **GPA Calculator (Forked)** – Extended functionality and improved UI for a TypeScript-based GPA app.  
-- **Cake_Website** – A modern responsive website built using pure HTML, CSS, and JavaScript.  
-- **Construction Web Project** – A functional website for a construction business with dynamic UI.  
-
-> _“Always building. Always improving.”_
-
----
-
-### 📊 GitHub Stats  
-
-![Sadhani's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sadhani721&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sadhani721&layout=compact&theme=radical)
-
----
-
-### 📫 Connect with Me  
-<p align="left">
-  <a href="mailto:amsadhanisulakshani@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/sadhani-sulakshani/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Sadhani721"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
-
----
-
-### 🧭 Goals for 2025
-- 🎓 Complete my degree with distinction  
-- 🌐 Build and deploy a scalable **SaaS application**  
-- 🤝 Contribute to **open-source** projects  
-- 📱 Develop a mobile app integrating **IoT and AI** concepts  
-- 💡 Keep learning, keep improving  
-
----
-
-⭐ _“Code is not just logic — it’s creativity expressed through syntax.”_  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
